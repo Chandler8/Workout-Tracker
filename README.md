@@ -1,8 +1,8 @@
 # Workout Tracker
 
-![License](https://img.shields.io/badge/License-MIT-blueviolet.svg)
+![License](https://img.shields.io/badge/License-MIT-limegreen.svg)
 
-The following application is meant for tracking and keeping up with your workouts. Users can create and customize their workout whether it be cardio or weight focused. In regards to strengt training, from a drop down menu users can adjust elements of the workout such as weight used, reps completed, etc. Conversely, if a user is going for a run, they are able to track the miles ran and the duration of that activity. This application utilizes technologies and NoSQL database elements such as; Node.js, MongoDB, HTML, CSS, JavaScript, and others. To view the deployed application, please click on the following link: 
+The following application is meant for tracking and keeping up with your workouts. Users can create and customize their workout whether it be cardio or weight focused. In regards to strengt training, from a drop down menu users can adjust elements of the workout such as weight used, reps completed, etc. Conversely, if a user is going for a run, they are able to track the miles ran and the duration of that activity. This application utilizes technologies and NoSQL database elements such as; Node.js, MongoDB, HTML, CSS, JavaScript, and others. To view the deployed application, please click on the following link: https://stark-savannah-12282.herokuapp.com/
 
 ## Features
 
