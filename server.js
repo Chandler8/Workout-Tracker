@@ -1,4 +1,3 @@
-  
 const express = require("express");
 const logger = require("morgan");
 const mongoose = require("mongoose");
@@ -14,12 +13,12 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-const URI = process.env.MONGODB_URI || "mongodb://localhost/workout"
+const URI = process.env.MONGODB_URI || "mongodb://localhost/workout";
 
 mongoose.connect(URI, {
   useUnifiedTopology: true,
   useNewUrlParser: true,
-  useFindAndModify: false
+  useFindAndModify: false,
 });
 
 // routes
